@@ -1,0 +1,5 @@
+Arithmetic Sequence
+First Term: 1
+Common Difference: 7
+Number of Terms: 10
+Sequence: 1, 8, 15, 22, 29, 36, 43, 50, 57, 64
